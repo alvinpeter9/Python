@@ -1,0 +1,3 @@
+#THIS IS MY FIRST PYTHON PROGRAM ON GITHUB
+
+print("Hello World")
